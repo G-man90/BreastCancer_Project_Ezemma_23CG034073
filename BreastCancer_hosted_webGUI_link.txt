@@ -2,5 +2,5 @@ Name: Greatman Ezemma
 Matric Number: 23CG034073
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Joblib
-Live URL: https://your-app.onrender.com
-GitHub Repository: https://github.com/yourusername/BreastCancer_Project
+Live URL: https://breastcancer-project-ezemma-23cg034073.onrender.com
+GitHub Repository:https://github.com/G-man90/BreastCancer_Project_Ezemma_23CG034073
